@@ -1,0 +1,28 @@
+name: Terra Firma Movement
+favicon: null
+layout_spectrum: 0.9810198531486094
+typography_spectrum: 0.7881775931455195
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.11003721947781742
+  lightness: 0.07808851543813944
+  saturation: 0.7986818649806082
+  rhythmicContrast: 0.1414110162295401
+purpose: []
